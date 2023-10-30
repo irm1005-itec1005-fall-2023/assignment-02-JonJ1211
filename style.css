@@ -108,3 +108,28 @@ background: linear-gradient(0deg, rgba(153,0,225,0.5271358543417367) 0%, rgba(25
 .column-4 img{
   width:100%;
 }
+
+.title{
+  text-align: center;
+  margin: 0 auto 80px;
+  position: relative;
+  padding-top: 50px;
+  line-height: 60px;
+  color: black
+}
+
+.footer-end {
+  text-align: center;
+  margin: 0 auto 80px;
+  position: relative;
+  padding-top: 50px;
+  line-height: 60px;
+  color: black
+}
+
+.image-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100%;
+}
