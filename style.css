@@ -84,8 +84,8 @@ background: linear-gradient(0deg, rgba(153,0,225,0.5271358543417367) 0%, rgba(25
 }
 
 .column-3{
-  flex: 30%
-  min-width: 250px
+  flex: 30%;
+  min-width: 250px;
   margin-bottom: 30px;
 }
 
